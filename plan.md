@@ -7,10 +7,6 @@
 3. Lookup actual weather for each city
 4. Handle Http Errors
 
-Features 1 & 2 should be completed by you, on your own.
-Feature 3 will be added in video
-Feature 4 should be added by you, on your own.
-
 * Free API KEY for Weather from [OpenWeatherMap](https://openweathermap.org/appid)
 * Axios Review [axios http library](https://github.com/mzabriskie/axios)
 
