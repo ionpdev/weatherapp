@@ -4,7 +4,7 @@
     
     Functional Programing with JavaScript
     
-    Babel and Webpack, Tachyons, Hyperscript, Virtual-DOM, Ramda
+    Babel and Webpack, Tachyons, Hyperscript, Virtual-DOM, Ramda, Axios 
     
 ## Final App:
 
